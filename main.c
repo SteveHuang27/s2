@@ -7,6 +7,6 @@ void main(void)
 	char str1[80]="Hello, sthis is a book.";
 	char *str2="That is a pen.";
 	char *str3="That is a girl.";
-	i=10;
-	printf("Hello,World! num=%d\n",i);
+	i=1;
+	printf("Hello,World! branch #=%d\n",i);
 }
