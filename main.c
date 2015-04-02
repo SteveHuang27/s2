@@ -8,5 +8,5 @@ void main(void)
 	char *str2="That is a pen.";
 	char *str3="That is a girl.";
 	i=1;
-	printf("Hello,World! branch #=%d\n",i);
+	printf("Hello,World! branch #%d OK?\n",i);
 }
